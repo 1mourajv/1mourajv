@@ -34,4 +34,4 @@ conhecer novas culturas.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mourajv&show_icons=true&theme=tokyonight)
 [![1mourajv](https://github-readme-stats.vercel.app/api/top-langs/?username=1mourajv&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/1mourajv/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1mourajv&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/1mourajv/1mourajv/blob/output/github-contribution-grid-snake.svg)
