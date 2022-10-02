@@ -22,7 +22,7 @@ busco a melhor forma para desempenhar um bom trabalho de qualidade.
 - Nível básico em espanhol e inglês, almejo trabalhar fora do Brasil, para aprimorar o meu inglês e
 conhecer novas culturas.
 - Gosto peculiar em aprender vários idiomas diferentes e saber o nome de quase todos os países.
-- Matenho um rotina de exercícios físicos e de esporte.
+- Mantenho um rotina de exercícios físicos e de esporte.
 ```
 
 ## _Meus dados no Github:_
